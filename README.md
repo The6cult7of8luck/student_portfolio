@@ -13,12 +13,13 @@
 7. **CI/CD (GitHub Actions):** Настроен автоматический Workflow (`.github/workflows/ci.yml`) для валидации структуры проекта.
 
 ## Ссылки на материалы проекта
-https://github.com/The6cult7of8luck/student_portfolio
-https://github.com/The6cult7of8luck/study_cpp
-https://github.com/The6cult7of8luck/programming_programm_modul
-https://github.com/The6cult7of8luck/P_and_T
+1. https://github.com/The6cult7of8luck/student_portfolio
+2. https://github.com/The6cult7of8luck/study_cpp
+3. https://github.com/The6cult7of8luck/programming_programm_modul
+4. https://github.com/The6cult7of8luck/P_and_T
 
 ##скриншоты
+
 <img width="746" height="284" alt="Снимок экрана 2026-09-21 203939" src="https://github.com/user-attachments/assets/c197d291-b22a-4f54-862d-a1e3f6a988ef" />
 <img width="630" height="203" alt="Снимок экрана 2026-09-21 210407" src="https://github.com/user-attachments/assets/2ffd18ef-9e9c-4f2d-a489-4dd5ddf6b756" />
 <img width="852" height="781" alt="Снимок экрана 2026-09-21 210435" src="https://github.com/user-attachments/assets/ad61bcc6-7040-4780-a656-45de9c4a0e4d" />
