@@ -8,9 +8,10 @@
 2. **Работа с репозиторием:** Создан публичный репозиторий `student-portfolio` с `README.md`, `.gitignore` и лицензией `MIT`.
 3. **Базовые команды Git:** Отработаны команды `clone`, `status`, `add`, `commit`, `push`, `pull`, `log`.
 4. **Ветвление:** Создана ветка `feature/about-me`, добавлен файл `about.md`, оформлен и успешно влит Pull Request (PR).
-5. **Issues & Projects:** Созданы 3 задачи (Issues), привязана автоматическая закрывалка `Closes #1`, организована Kanban-доска в GitHub Projects.
-6. **Совместная работа:** Выполнен Fork репозитория одногруппника, отправлен внешне PR, проведён Code Review входящего PR.
-7. **CI/CD (GitHub Actions):** Настроен автоматический Workflow (`.github/workflows/ci.yml`) для валидации структуры проекта.
+  "сырок бю александров" <-- практика совместная 
+6. **Issues & Projects:** Созданы 3 задачи (Issues), привязана автоматическая закрывалка `Closes #1`, организована Kanban-доска в GitHub Projects.
+7. **Совместная работа:** Выполнен Fork репозитория одногруппника, отправлен внешне PR, проведён Code Review входящего PR.
+8. **CI/CD (GitHub Actions):** Настроен автоматический Workflow (`.github/workflows/ci.yml`) для валидации структуры проекта.
 
 ## Ссылки на материалы проекта
 1. https://github.com/The6cult7of8luck/student_portfolio
@@ -26,4 +27,3 @@
 <img width="552" height="202" alt="Снимок экрана 2026-09-21 211435" src="https://github.com/user-attachments/assets/d2d53fc1-3dfd-4513-81a8-223df776f20d" />
 <img width="1070" height="112" alt="Снимок экрана 2026-09-21 211446" src="https://github.com/user-attachments/assets/deae2980-2bcf-47fa-912b-b9a3240cb03c" />
 <img width="675" height="408" alt="Снимок экрана 2026-09-21 211804" src="https://github.com/user-attachments/assets/8102c298-6ea1-4068-8fae-ba12f9a7b9c9" />
-
